@@ -1,0 +1,71 @@
+body{
+    background-color:aliceblue;
+}
+#h1{
+    color: cadetblue;
+    margin-left: 28%;
+}
+
+#label{
+    font-weight: bold;
+    margin-left: 30%;
+   
+}
+
+#label2{
+    font-weight: bold;
+    margin-left: 30%;
+   
+}
+
+#height{
+    margin-left: 2.5%;
+    border-radius: 1rem;
+    margin: 5px;
+    height: 18px;
+    width: 9%;
+    
+}
+#weight{
+    margin-left: 2.5%;
+    border-radius: 1rem;
+    margin: 5px;
+    height: 18px;
+    width: 9%;
+    
+}
+
+#calculate{
+    margin-left: 40%;
+    margin-top: 25px;
+    cursor: pointer;
+    border-radius: 1rem;
+    font-weight: bold;
+    height: 10%;
+    background-color:cadetblue;
+    color: black;
+}
+
+#weight-guide{
+    padding-left: 30%;
+    padding-top: 25px;
+    font-weight:bold ;
+  
+    
+    
+}
+
+#results{
+    padding-left: 35%;
+    padding-top: 35px;
+    font-weight:bold ;
+    color: red;
+}
+
+#message{
+    padding-left: 38%;
+    padding-top: 4px;
+    font-weight:bold ;
+    color: red;    
+
+}
