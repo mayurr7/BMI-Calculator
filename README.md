@@ -1,0 +1,1 @@
+Welcome to the BMI Calculator project! This repository contains the source code for a web-based Body Mass Index (BMI) calculator. The BMI Calculator allows users to quickly and easily calculate their BMI, a measure used to determine if a person has a healthy body weight for a given height.
